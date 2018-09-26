@@ -1,0 +1,11 @@
+PCA
+1. Large Amounts of Variables 30%-35%
+2. Categorize 60% Prediction/Causal 90%-95%
+
+Criteria:
+1. Variability
+2. Eigen Value > 1
+3. SCREE
+
+PCA = Commanilities
+
