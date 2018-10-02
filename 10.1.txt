@@ -1,0 +1,10 @@
+PCA(num of factors) -> Behavioral Data(num of clusters) -> Cluster -> Personal Data(bivariate qualitative)
+k-means 1) business needs 2) input dimensinality
+cluster too small -- reduce k
+cluster too big -- increase k
+eliminate outliers and repeat
+CP cluster ANOVA
+Same case choose smaller k
+hierarchical computational expensive/nonrandom/dendogram branches the highest
+combine two methods
+alberto.saccaroli@nunatac.it
